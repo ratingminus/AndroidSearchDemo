@@ -94,7 +94,7 @@ class SearchActivity : AppCompatActivity() {
         modelArrayList.add(Model("Sharara", "White"))
         modelArrayList.add(Model("Shamik", "Black"))
         modelArrayList.add(Model("Avishek", "Colorless"))
-        modelArrayList.add(Model("Fahim sir", "Raindbow"))
+        modelArrayList.add(Model("Fahim sir", "Rainbow"))
 
         // initializing our adapter class.
         adapter = ModelAdapter(modelArrayList)
